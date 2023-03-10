@@ -1,0 +1,6 @@
+D:\UAI\CAMPO\Huamani.PrimerParcial.Campo\DomainModel\obj\Debug\DomainModel.csproj.AssemblyReference.cache
+D:\UAI\CAMPO\Huamani.PrimerParcial.Campo\DomainModel\obj\Debug\DomainModel.csproj.CoreCompileInputs.cache
+D:\UAI\CAMPO\Huamani.PrimerParcial.Campo\DomainModel\bin\Debug\DomainModel.dll
+D:\UAI\CAMPO\Huamani.PrimerParcial.Campo\DomainModel\bin\Debug\DomainModel.pdb
+D:\UAI\CAMPO\Huamani.PrimerParcial.Campo\DomainModel\obj\Debug\DomainModel.dll
+D:\UAI\CAMPO\Huamani.PrimerParcial.Campo\DomainModel\obj\Debug\DomainModel.pdb

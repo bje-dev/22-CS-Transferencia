@@ -1,0 +1,11 @@
+D:\UAI\CAMPO\Huamani.PrimerParcial.Campo\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\UAI\CAMPO\Huamani.PrimerParcial.Campo\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\UAI\CAMPO\Huamani.PrimerParcial.Campo\BLL\bin\Debug\BLL.dll
+D:\UAI\CAMPO\Huamani.PrimerParcial.Campo\BLL\bin\Debug\BLL.pdb
+D:\UAI\CAMPO\Huamani.PrimerParcial.Campo\BLL\bin\Debug\DAL.dll
+D:\UAI\CAMPO\Huamani.PrimerParcial.Campo\BLL\bin\Debug\DomainModel.dll
+D:\UAI\CAMPO\Huamani.PrimerParcial.Campo\BLL\bin\Debug\DAL.pdb
+D:\UAI\CAMPO\Huamani.PrimerParcial.Campo\BLL\bin\Debug\DomainModel.pdb
+D:\UAI\CAMPO\Huamani.PrimerParcial.Campo\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\UAI\CAMPO\Huamani.PrimerParcial.Campo\BLL\obj\Debug\BLL.dll
+D:\UAI\CAMPO\Huamani.PrimerParcial.Campo\BLL\obj\Debug\BLL.pdb

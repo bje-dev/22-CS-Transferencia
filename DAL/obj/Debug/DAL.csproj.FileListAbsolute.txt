@@ -1,0 +1,9 @@
+D:\UAI\CAMPO\Huamani.PrimerParcial.Campo\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\UAI\CAMPO\Huamani.PrimerParcial.Campo\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\UAI\CAMPO\Huamani.PrimerParcial.Campo\DAL\bin\Debug\DAL.dll
+D:\UAI\CAMPO\Huamani.PrimerParcial.Campo\DAL\bin\Debug\DAL.pdb
+D:\UAI\CAMPO\Huamani.PrimerParcial.Campo\DAL\bin\Debug\DomainModel.dll
+D:\UAI\CAMPO\Huamani.PrimerParcial.Campo\DAL\bin\Debug\DomainModel.pdb
+D:\UAI\CAMPO\Huamani.PrimerParcial.Campo\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\UAI\CAMPO\Huamani.PrimerParcial.Campo\DAL\obj\Debug\DAL.dll
+D:\UAI\CAMPO\Huamani.PrimerParcial.Campo\DAL\obj\Debug\DAL.pdb
